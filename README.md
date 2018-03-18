@@ -2,6 +2,10 @@
 
 Bitcluster is a simple wrapper for Crypto-JS that makes client-side encryption painless, and validation easier.
 
+Install: 
+
+`npm install --save bitcluster`
+
 To encrypt: 
 ```
 // using node 
