@@ -1,6 +1,6 @@
 {
   "name": "bitcluster",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Simplified Client-Side Encryption",
   "main": "index.js",
   "scripts": {
