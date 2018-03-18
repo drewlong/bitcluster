@@ -1,6 +1,6 @@
 {
   "name": "bitcluster",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Simplified Client-Side Encryption",
   "main": "index.js",
   "scripts": {
@@ -11,8 +11,8 @@
     "crypto"
   ],
   "repository": {
-  "type": "git",
-  "url": "https://github.com/drewlong/bitcluster"
+    "type": "git",
+    "url": "https://github.com/drewlong/bitcluster"
   },
   "author": "Drew Long",
   "license": "ISC",
