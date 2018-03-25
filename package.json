@@ -8,7 +8,10 @@
   },
   "keywords": [
     "bitcluster",
-    "crypto"
+    "crypto-js",
+    "encryption",
+    "client-side",
+    "decryption"
   ],
   "repository": {
     "type": "git",
